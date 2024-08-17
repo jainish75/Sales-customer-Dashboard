@@ -2,7 +2,7 @@
 # Tableau User Story: Sales Performance Dashboards
 
 A brief description of what this project does and who it's for
-Tableau Public Link:https://public.tableau.com/app/profile/jainish.satani/vizzes
+Tableau Public Link:[https://public.tableau.com/app/profile/jainish.satani/vizzes](https://public.tableau.com/app/profile/jainish.satani/viz/Dashboardcustomer_17239240590370/customerdashboard)
 
 # Introduction:
 This user story outlines the requirements for developing two Tableau dashboards designed to empower sales managers and executives. The dashboards will provide a comprehensive analysis of sales performance and customer behavior, enabling stakeholders to make data-driven decisions and optimize strategies. ! 👋
