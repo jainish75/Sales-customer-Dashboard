@@ -4,15 +4,7 @@
 A brief description of what this project does and who it's for
 
 
-# Description:
-This user story outlines the requirements for developing two Tableau dashboards designed to empower sales managers and executives. The dashboards will provide a comprehensive analysis of sales performance and customer behavior, enabling stakeholders to make data-driven decisions and optimize strategies. ! 👋
-
-#1. Sales Dashboard
-
-##Dashboard Purpose
-The Sales Dashboard is designed to offer a snapshot of key sales metrics and trends. It allows users to analyze year-over-year sales performance, identify trends, and gain insights into the factors driving sales success.
-
-# Description:
+# Introduction:
 This user story outlines the requirements for developing two Tableau dashboards designed to empower sales managers and executives. The dashboards will provide a comprehensive analysis of sales performance and customer behavior, enabling stakeholders to make data-driven decisions and optimize strategies. ! 👋
 
 ## 1. Sales Dashboard
